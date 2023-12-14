@@ -1,4 +1,4 @@
-<img align= "center" src= "https://github.com/pxmiddle/pxmiddle/assets/73138250/729fc211-66d6-434f-aafd-dfe16975021d" />
+<img align= "center" src= "https://github.com/pxmiddle/pxmiddle/assets/73138250/82048ed3-63f0-49f3-b490-c36c75979e8a" />
 
 <h1 align="center">Oi, Eu sou o Pablo👋</h1>
 <h3 align="center">Desenvolvedor Java, apaixonado por Psicologia, Jogos e Corinthians.</h3>
